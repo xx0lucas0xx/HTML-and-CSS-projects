@@ -14,3 +14,10 @@ tr, td {
 	background-color: darkgreen;
 	color: white;
 }
+
+ol {
+	list-style-type: upper-roman;
+}
+
+ul {
+	list-style-type: circle;
