@@ -1,0 +1,12 @@
+p {
+		background-color: pink;
+		color: brown;
+		text-align: center;
+		font-size: large;
+	}
+h3:after {
+			content: '\219D';
+		}
+h3 {
+	text-shadow: 2px 2px #FF0000;
+}
