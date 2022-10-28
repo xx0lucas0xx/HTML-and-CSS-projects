@@ -194,7 +194,7 @@ section {
 /*-----------------------------------------------
     CONTACT STYLES
 -------------------------------------------*/
-.flex-contaienr {
+.flex-container {
     display: -webkit-flex;
     display: flex;
     flex-wrap: wrap;
@@ -262,7 +262,7 @@ section {
     font-family: 'Raleway', sans-serif;
 }
 
-.reservation input [type="text"]{
+.reservation input[type="text"]{
     font-size: 15px;
     outline: none;
     font-weight: 600;
@@ -280,7 +280,7 @@ section {
     font-family: 'Raleway', sans-serif;
 }
 
-.reservation input [type="text"]:hover {
+.reservation input[type="text"]:hover {
     box-shadow: 0 0 18px rgba(100, 65, 0, .8);
 }
 
@@ -290,6 +290,7 @@ section {
 
 .terms {
     margin: 30px 1px 0 0;
+    margin-top: 13%;
     padding-left: 52px;
     font-size: 14px;
     line-height: 5px;
