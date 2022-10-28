@@ -3,7 +3,7 @@
 ------------------------------------*/
 html {
     font-family: sans-serif;
-    font-size: 62.5;
+    font-size: 62.5%;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -12,7 +12,7 @@ html {
 body {
     font-size: 14px;
     margin: 0;
-    font-family: "Helvetica Neue", Arial, Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.42857143;
     color: #333;
     background-color: #fff;
@@ -226,7 +226,9 @@ section {
     margin: 0 auto;
     color: #13161b;
     font-weight: 500;
+    font-size: 1.3em;
     letter-spacing: 0pt;
+    word-spacing: 0pt;
 }
 
 .reservation h2 span {
@@ -265,14 +267,14 @@ section {
 .reservation input [type="text"]{
     font-size: 15px;
     outline: none;
-    font-weight: none;
+    font-weight: 600;
     color: #8d8e8f;
     padding: 2% 1% 2% 7%;
     width: 80%;
     border-top: 1px solid #090b0d;
     border-right: 2px solid #424549;
     border-bottom: 2px solid #424549;
-    border-left: 2px soild #090b0d;
+    border-left: 1px soild #090b0d;
     margin: 10px 1em;
     border-radius: 7px;
     background: #13161b;
@@ -399,7 +401,7 @@ section {
     position: relative;
     padding: 15px 4%;
     border: 1px solid #9d9fa2;
-    box-shadow: 2px 2px 20px 0 rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
     border-radius: 6px;
     /*background-color: #052136;*/
     cursor: pointer;
@@ -425,7 +427,7 @@ section {
     border-radius: 8px;
     padding: 1px;
     border: 1px solid #021a40;
-    background-color: #ff0;
+    background-color: rgb(80, 95, 116);
     box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.7);
 }
 
@@ -450,7 +452,7 @@ section {
     left: 0;
     bottom: 0;
     padding-left: 20px;
-    padding-right: center;
+    padding-right: 20px;
     justify-content: center; /*For centering text inside .photo-overlay*/
     align-items: center;
     background: rgba(0,0,0,0.5);
