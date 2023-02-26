@@ -8,6 +8,8 @@ links to a video of a dog and a picture of a dog]
 [a webpage about pete the cat and his many war crimes
 links to second page with list of crimes and a video]
 
+	
+
 ---
 
 HTML-and-CSS/folder
@@ -47,8 +49,8 @@ Creating-a-CSS-menu
 One-Page-Website
 
 	one-page-website.html
-[a webpage with a navbar that jumps to different
-sections of the page. about butterflys]
+[a webpage with a navbar that jumps to different sections of the page 
+about butterflys with hover effects on plant photos]
 
 ---
 
