@@ -31,7 +31,7 @@ a webpage to test out how to make tables
 
 ---
 
-bootstrap4_project
+# bootstrap4_project
 
 	academy_cinemas.html
 a webpage for a movie theater that displays when
@@ -39,13 +39,13 @@ the movies play and a description of them
 
 ---
 
-## Creating-a-CSS-menu
+# Creating-a-CSS-menu
 
 	css_menu_rollover.html
 testing how to make menu and hover effects
 
 
-## One-Page-Website
+# One-Page-Website
 
 	one-page-website.html
 a webpage with a navbar that jumps to different sections of the page 
@@ -53,7 +53,7 @@ about butterflies with hover effects on plant photos
 
 ---
 
-## Project
+# Project
 
 	Basic-HTML-Template.html
 a webpage with colored boxes and smiley faces, when 
