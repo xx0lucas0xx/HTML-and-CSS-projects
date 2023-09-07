@@ -1,4 +1,4 @@
-## HTML-and-CSS-projects
+# HTML-and-CSS-projects
 
 	Assignment.html
 [a basic webpage about crystals, has navbar that 
