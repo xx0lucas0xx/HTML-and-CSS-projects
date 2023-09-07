@@ -6,14 +6,9 @@ links to a video of a dog and a picture of a dog
 
 	Pete-Cat-Main/second.html
 a webpage about pete the cat and his many war crimes
-links to second page with list of crimes and a video
+links to the second page with a list of crimes and a video
 
 	
-
----
-
-## HTML-and-CSS/folder
-
 	Basic_HTML_.html/3,4,5
 Testing out basic styling in html
 
@@ -21,7 +16,7 @@ Testing out basic styling in html
 a webpage about bears with pictures and facts
 
 	Butterfly.html
-a webpage about butterflies with photots
+a webpage about butterflies with photos
 
 	HTML_Lists.html
 a webpage to test out how to make lists
@@ -45,15 +40,12 @@ the movies play and a description of them
 testing how to make menu and hover effects
 
 
-# One-Page-Website
 
 	one-page-website.html
 a webpage with a navbar that jumps to different sections of the page 
 about butterflies with hover effects on plant photos
 
----
 
-# Project
 
 	Basic-HTML-Template.html
 a webpage with colored boxes and smiley faces, when 
