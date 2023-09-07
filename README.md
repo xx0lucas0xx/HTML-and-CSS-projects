@@ -5,29 +5,29 @@ a basic webpage about crystals, has navbar that
 links to a video of a dog and a picture of a dog
 
 	Pete-Cat-Main/second.html
-[a webpage about pete the cat and his many war crimes
-links to second page with list of crimes and a video]
+a webpage about pete the cat and his many war crimes
+links to second page with list of crimes and a video
 
 	
 
 ---
 
-HTML-and-CSS/folder
+## HTML-and-CSS/folder
 
 	Basic_HTML_.html/3,4,5
-[Testing out basic styling in html]
+Testing out basic styling in html
 
 	brown-bear.html
-[a webpage about bears with pictures and facts]
+a webpage about bears with pictures and facts
 
 	Butterfly.html
-[a webpage about butterflys with photots]
+a webpage about butterflys with photots
 
 	HTML_Lists.html
-[a webpage to test out how to make lists]
+a webpage to test out how to make lists
 
 	HTML-Tables.html
-[a webpage to test out how to make tables]
+a webpage to test out how to make tables
 
 ---
 
