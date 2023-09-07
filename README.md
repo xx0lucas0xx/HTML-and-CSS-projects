@@ -1,5 +1,5 @@
 # HTML-and-CSS-projects
-a repository for various HTML and CSS projects
+A repository for various HTML and CSS projects
 
 	Assignment.html
 [a basic webpage about crystals, has navbar that 
