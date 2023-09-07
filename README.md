@@ -1,8 +1,8 @@
 # HTML-and-CSS-projects
 
 	Assignment.html
-[a basic webpage about crystals, has navbar that 
-links to a video of a dog and a picture of a dog]
+a basic webpage about crystals, has navbar that 
+links to a video of a dog and a picture of a dog
 
 	Pete-Cat-Main/second.html
 [a webpage about pete the cat and his many war crimes
